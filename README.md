@@ -1,8 +1,8 @@
 # Project Portfolio
-<p>🌐 IoT & Microcontroller &rarr; Weatherstation using ESP32 and BME680 sensor with GPS and LTE capability, Webapp displaying data</p>
-<p>📲 Mobile App Development &rarr; Android tracking app recording and persisting geo location</p>
-<p>🤖 AI Model Fine-Tuning &rarr; Fine-tuning hugging face model to filter chat messages</p>
-<p>☕ Coffee &rarr; In-progress</p>
+<p>🌐 <a href="#">IoT & Microcontroller</a> &rarr; Weatherstation using ESP32 and BME680 sensor with GPS and LTE capability, Webapp displaying data</p>
+<p>📲 <a href="#">Mobile App Development</a> &rarr; Android tracking app recording and persisting geo location</p>
+<p>🤖 <a href="#">AI Model Fine-Tuning</a> &rarr; Fine-tuning hugging face model to filter chat messages</p>
+<p>☕ <a href="#">Coffee</a> &rarr; In-progress</p>
 
 <!--
 **lennard-langenbruch/lennard-langenbruch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
