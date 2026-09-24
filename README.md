@@ -1,4 +1,8 @@
-## Hi there 👋
+### Maker First
+
+- 🔧 IoT & Microcontroller
+- 💻 Web- und Softwareentwicklung
+- 🤖 AI Model Fine-Tuning
 
 <!--
 **lennard-langenbruch/lennard-langenbruch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
