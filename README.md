@@ -1,8 +1,6 @@
 ## Portfolio Projekt
 
 ### Wetterstation: Hardware + Software
-#### Tech-stack Frontend: JavaScript, Node.js, React.js, Next.js, Material UI, Graph UI, 
-#### Tech-stack Backend: C++, ESP32, MQTT,Embedded Systems, GPS, LTE, NB-IoT
 
 <hr>
 
